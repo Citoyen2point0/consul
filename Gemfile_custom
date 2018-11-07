@@ -1,5 +1,10 @@
 # Overrides and adds customized gems in this file
-# Read more on documentation: 
+# Read more on documentation:
 # * English: https://github.com/consul/consul/blob/master/CUSTOMIZE_EN.md#gemfile
 # * Spanish: https://github.com/consul/consul/blob/master/CUSTOMIZE_ES.md#gemfile
 #
+
+gem 'rails_12factor', '~> 0.0.3'
+gem 'heroku-deflater', '~> 0.6.3'
+
+ruby '2.3.2'
