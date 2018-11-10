@@ -3,3 +3,17 @@
 // * English: https://github.com/consul/consul/blob/master/CUSTOMIZE_EN.md#css
 // * Spanish: https://github.com/consul/consul/blob/master/CUSTOMIZE_ES.md#css
 //
+
+.subnavigation a{
+
+    padding-right: 12px;
+    padding-left: 12px;
+    
+    &:hover{
+        background-color: $transparent-yellow;
+        text-decoration: none;
+        color: $black !important;
+        border-bottom: 2px solid $transparent-yellow;
+    }
+
+}

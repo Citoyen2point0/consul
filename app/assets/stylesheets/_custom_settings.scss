@@ -5,18 +5,8 @@
 
 
 $brand:             #169e4b;
-$dark:              #F7921F;
-
-.subnavigation a{
-
-    padding-right: 12px;
-    padding-left: 12px;
-    
-    &:hover{
-        background-color: #EF2E2D;
-        text-decoration: none;
-        color: black !important;
-        border-bottom: 2px solid #EF2E2D;
-    }
-
-}
+$dark:              #EF2E2D;
+  
+$yellow:            #FABA19;
+$orange:            #F7921F;
+$transparent-yellow: rgba(250, 186, 25, 0.3);             
