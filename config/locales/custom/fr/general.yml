@@ -1,0 +1,22 @@
+fr:
+  geozones:
+    none: Tout le pays
+    all: Toutes les régions
+  layouts:
+    footer:
+      participation_text: Modelez le pays dans lequel vous souhaitez vivre.
+  map:
+    title: "Régions"
+    proposal_for_district: "Commencer une proposition pour votre région"
+  proposals:
+    index:
+      section_footer:
+        description: Les propositions des citoyens sont une occasion pour les voisins et les collectifs de décider directement comment ils veulent que soit leur pays, après l’obtention d’un soutien suffisant et de le soumettre au vote des citoyens.
+  polls:
+    index:
+      no_geozone_restricted: "Tout le pays"
+      geozone_restricted: "Régions"
+  shared:
+    tags_cloud:
+      districts: "Régions"
+      districts_list: "Liste des régions"

@@ -1,0 +1,23 @@
+en:
+  geozones:
+    none: All country
+    all: All the regions
+  layouts:
+    footer:
+      participation_text: Decide how to shape the country you want to live in.
+  map:
+    title: "Regions"
+    proposal_for_district: "Start a proposal for your region"
+  proposals:
+    index:
+      section_footer:
+        description: Citizens' proposals are an opportunity for neighbours and collectives to decide directly how they want their country to be, after getting sufficient support and submitting to a citizens' vote.
+  polls:
+    index:
+      no_geozone_restricted: "All country"
+      geozone_restricted: "Regions"
+  shared:
+    tags_cloud:
+      tags: Trending
+      districts: "Regions"
+      districts_list: "Regions list"

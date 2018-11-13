@@ -1,0 +1,12 @@
+en:
+  pages:
+    help:
+      debates:
+        description: "In the %{link} section you can present and share your opinion with other people on issues of concern to you related to the country. It is also a place to generate ideas that through the other sections of %{org} lead to concrete actions by the Government."
+      proposals:
+        description: "In the %{link} section you can make proposals for the Government to carry them out. The proposals require support, and if they reach sufficient support, they are submitted to the government."
+      processes:
+        description: "In the %{link} section, citizens participate in the drafting and modification of regulations affecting the country and can give their opinion on national policies in previous debates."
+      other:
+        title: "Other information of interest"
+        how_to_use: "Use %{org_name} in your city"

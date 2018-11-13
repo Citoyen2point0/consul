@@ -1,0 +1,11 @@
+fr:
+  pages:
+    help:
+      debates:
+        description: "Dans la section %{link}, vous pouvez présenter et partager votre opinion avec d’autres personnes sur des sujets liés au pays qui vous sont chers. C’est aussi un lieu pour générer des idées qui, associées aux autres sections de %{org}, pourront conduire à des actions concrètes du gouvernement."
+      proposals:
+        description: "Dans la section %{link}, vous pouvez faire des propositions que le gouvernement pourrait réaliser. Les propositions ont besoin de soutiens, et si elles atteignent un nombre suffisant, elles sont soumises au gouvernement."
+      processes:
+        description: "Dans la section des %{link} , les citoyens participent à l’élaboration et la modification des réglements qui s'appliquent au pays et peuvent donner leur avis sur les politiques municipales lors des débats préalables."
+      other:
+        how_to_use: "Utiliser %{org_name} dans votre pays/ville"
