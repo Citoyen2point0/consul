@@ -45,19 +45,26 @@
     .background-header {
       display: none;
     }
-.jumbo {
-    background: #d8e9d8 image-url('map_bande.jpg');
-    height: 20vw;
-    margin-top: -1.6rem;
-    background-position: bottom;
-    background-repeat: no-repeat;
-    padding-bottom: rem-calc(72);
+    
+    .jumbo {
 
-    @include breakpoint(medium) {
-      background: #d8e9d8 image-url('map_bande.jpg');
-      background-size: cover;
-    }
-  }
+        background: #d8e9d8 image-url('map_bande.jpg');
+        height: 20vw;
+        margin-top: -1.6rem;
+        background-position: bottom;
+        background-repeat: no-repeat;
+        padding-bottom: rem-calc(72);
+
+        @include breakpoint(medium) {
+        background: #d8e9d8 image-url('map_bande.jpg');
+        background-size: cover;
+        }
+
+        h1,
+        p {
+          color: white;
+        }
+    }  
 
 }
 
