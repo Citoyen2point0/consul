@@ -234,6 +234,9 @@ fr:
       poll_questions: Votes
       budgets: Budget participatif
       spending_proposals: Propositions de dépense
+      notification_item:
+        no_notifications: 
+        no_notifications: "Vous n'avez pas de nouvelles notifications"
   mailers:
     comment:
       hi: Bonjour
